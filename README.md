@@ -1,13 +1,13 @@
 ### What is termux keys??
 
-*Termux keys is a simple script for termux 
-*And you get termux more keys for ezy run termux
+* Termux keys is a simple script for termux 
+* And you get termux more keys for ezy run termux
 
-###AVAILABLE ON
+### AVAILABLE ON
 
 * TERMUX
 
-###INSTALLATION
+### INSTALLATION
 
 * apt-get update
 
