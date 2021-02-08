@@ -36,3 +36,7 @@
 * cd install-keys
 
 * bash remove.sh
+
+### vedio tutorial
+
+https://youtu.be/QwsQcSuDAq8
