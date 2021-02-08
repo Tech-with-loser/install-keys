@@ -51,6 +51,6 @@ echo""
 sleep 1
 echo -e "	\e[91m==========================================================================="
 echo""
-echo -e "	\e[32m your keys successfully installed ❤️😘 pls type exit  And reopne termux"
+echo -e "	\e[32m your keys successfully installed ❤️😘 pls type exit  And Reopen termux"
 echo""        
 echo -e "	\e[96m==========================================================================="
